@@ -21,7 +21,11 @@
     <div class="footer">
               <div class="webgl-logo"></div>
               <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-              <div class="title">Google > Classroom Center Games</div>
+              <div class="title">
+  Google > <a href="https://sites.google.com/view/classroomcentral" target="_blank">
+  sites.google.com/view/classroomcentral
+  </a>
+</div>
           </div>
     </div>
 
